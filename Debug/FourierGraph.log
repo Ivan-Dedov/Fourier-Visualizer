@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Учеба\Fourier\FourierGraph\Source\main.cpp(90,32): warning C4305: аргумент: усечение из "double" в "float"
+  FourierGraph.vcxproj -> C:\Учеба\Fourier\FourierGraph\Debug\FourierGraph.exe
